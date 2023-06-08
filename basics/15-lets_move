@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [:upper:] *.html /tmp/u
+mv [[:upper:]]* /tmp/u
