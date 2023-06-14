@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A 3 /etc/passwsd
+grep -A 3 "root" /etc/passwsd
