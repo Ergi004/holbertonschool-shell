@@ -1,2 +1,2 @@
 #!/bin/bash
-alias sudo="hello MyUser"
+alias ls="hello su"
