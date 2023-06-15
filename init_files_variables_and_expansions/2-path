@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd %PATH bin 
+pwd /actions %PATH  
