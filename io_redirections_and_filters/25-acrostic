@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(cut -b -1  school | tr -d "/n")
+echo $(cut -c1  school | tr -d "/n")
